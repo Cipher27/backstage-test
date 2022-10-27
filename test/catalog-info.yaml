@@ -7,7 +7,6 @@ metadata:
     github.com/project-slug: cloud-engineering/EPM
     backstage.io/kubernetes-id: epm-demo
     backstage.io/kubernetes-namespace: policymanager
-    backstage.io/kubernetes-label-selector: 'app=policy-manager'
 spec:
   type: website
   owner: backstage/maintainers
