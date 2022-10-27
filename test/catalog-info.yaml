@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: epm-policy-service
-  description: An example deployment of EPM in backstage.
+  description: A microservice within EPM NG that handles policys created by customers for EPM Agents.
   annotations:
     github.com/project-slug: cloud-engineering/EPM
     backstage.io/kubernetes-id: epm-demo
