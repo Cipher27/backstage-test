@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: cloud-engineering/EPM
     backstage.io/kubernetes-id: epm-demo
+    backstage.io/kubernetes-label-selector: 'backstage.io/kubernetes-id=epm-demo'
 spec:
   type: website
   owner: backstage/maintainers
