@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: cloud-engineering/EPM
     backstage.io/kubernetes-id: epm-ng-staging
 spec:
-  type: service
+  type: website
   owner: backstage/maintainers
   lifecycle: experimental
