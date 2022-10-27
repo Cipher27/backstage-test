@@ -12,3 +12,4 @@ spec:
   type: website
   owner: backstage/maintainers
   lifecycle: experimental
+  subComponentOf: epm-demo
