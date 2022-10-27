@@ -5,7 +5,7 @@ metadata:
   description: An example deployment of EPM in backstage.
   annotations:
     github.com/project-slug: cloud-engineering/EPM
-    backstage.io/kubernetes-id: epm-ng-staging
+    backstage.io/kubernetes-id: epm-ti-eks-cluster-testing
 spec:
   type: website
   owner: backstage/maintainers
